@@ -409,6 +409,10 @@ body {
     line-height: var(--line-height-base);
 }
 
+.navbar-menu {
+    float: right;
+}
+
 .nav {
     margin: 0;
     padding: 0;
